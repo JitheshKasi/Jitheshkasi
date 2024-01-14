@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif)
 <h1 align="center">Hi 👋, I'm <span style="color: #7482ec;">Jithesh Kasi</span></h1>
-<h3 align="center">Greetings 🙏🏻, coding companions! I'm Jithesh Kumar Kasi, an aspiring Software Developer committed to honing my skills. I'm here to learn, innovate, and collaborate on exciting projects. passionate frontend developer from India</h3>
+<h3 align="center">Greetings 🙏🏻, coding companions! I'm Jithesh Kumar Kasi, an aspiring Software Developer committed to honing my skills. I'm here to learn, innovate, and collaborate on exciting projects.</h3>
 </p>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif">
 
