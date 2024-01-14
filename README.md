@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jithesh Kasi</h1>
 <h3 align="center">Greetings 🙏🏻, coding companions! I'm Jithesh Kumar Kasi, an aspiring Software Developer committed to honing my skills. I'm here to learn, innovate, and collaborate on exciting projects. passionate frontend developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jitheshkasi&label=Profile%20views&color=0e75b6&style=flat" alt="jitheshkasi" /> </p>
 
