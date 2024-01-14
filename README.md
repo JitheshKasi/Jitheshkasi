@@ -5,9 +5,9 @@
 
 - 🎓 Master's in Computer Science at [University Cincinnati](https://www.uc.edu/)
 
-- 🌱 I’m currently learning **GraphQL & Typescript**
+- 🌱 I’m currently learning **GraphQL** & **Typescript**
 
-- 🏆 2x AWS Certified **| 2x Azure Certified**
+- 🏆 **2x AWS Certified | 2x Azure Certified**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
